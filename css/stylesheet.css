@@ -1,0 +1,231 @@
+/*body{
+
+	text-align: center;
+	background-color: green;
+
+}*/
+
+#products_container
+{
+	margin-top: 50px;
+
+}
+
+#navbar
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+
+#product_title
+{
+	text-align: left !important;
+	margin-bottom: 30px;
+	color: #707070;
+}
+
+#products_container .card
+{
+	text-align: center;
+}
+#products_container p
+{
+	text-align: center;
+	color: #c6a639;
+}
+
+#updates_container #updates .card
+{
+	height: 110px;
+	
+}
+
+#updates_container #updates .card .card-body
+{
+	padding-left: 30px;
+	
+}
+
+#products_container .card
+{
+	border: none;
+}
+
+#products_container  #products
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+#products_container  #products .card
+{
+	margin-bottom: 40px;
+}
+
+#products_container  #products .card .card-text 
+{
+	margin-top: -15px;
+}
+
+p.price 
+{
+	font-size: 1.4em;
+}
+#products_container  #products .form-control
+{
+	background-color: #ef4f4f;
+	color: white;
+}
+
+.icons
+{
+	font-size: 2em;
+	color: #959595;
+}
+
+
+
+#logo_container #logo
+{
+	padding-bottom: 30px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+#logo_container{
+
+	margin-top: 30px;
+
+}
+
+img#uniview
+{
+	margin-top: 10px;
+}
+img#dahua
+{
+	margin-top: 25px;
+}
+
+img#hik
+{
+	margin-top: 40px;
+}
+
+#updates_container
+{
+	margin-top: 40px;
+}
+
+#updates_container img
+{
+	height: 110px;
+	width: 125px;
+}
+
+#updates_container #updates #updates_title
+{
+	color: #707070;
+	margin-bottom: 50px;
+}
+
+#updates_container #updates .card
+{
+	border: none;
+}
+
+#updates_container #updates #active_body 
+{
+	background-color: #dcdcdc;
+}
+
+small#text_lorem
+{
+
+	color: #c68c8b !important;
+}
+
+#contact_container 
+{
+	background-color: #707070;
+	margin-top: 30px;
+}
+
+#contact_container #content_info
+{
+	padding-top: 40px;
+}
+
+/*#contact_container #content_info #content_lorem
+{
+	color: #959595;
+}
+*/
+.content_lorem
+{
+	color: #959595;
+}
+
+#contact_container #content_info .contact_class
+{
+	color: #ebebeb;
+}
+
+#contact_container #content_info #contact_products
+{
+	color: #ebebeb;
+}
+
+#contact_container #content_info #contact_partners
+{
+	color: #ebebeb;
+}
+
+#contact_container #content_info .lorem_lable
+{
+	margin-left: 20px
+}
+
+#footer_container 
+{
+	padding-top: 20px;
+	background-color: #505050;
+	padding-bottom: 20px
+}
+
+#footer_container #content_footer #row_footer #all_rights_reserved
+{
+	margin-top: 10px;
+}
+
+/*#footer_container #content_footer #row_footer
+{
+	margin-top: 20px;
+}*/
+
+#contact_1, #contact_2
+{
+	margin-left: 15px;
+}
+
+#icon_div
+{
+	margin-top: 10px;
+	margin-left: -70px;
+}
+
+a.carousel-control-prev:before
+{
+	content: "<";
+	margin-left: -200px;
+	font-size: 100px;
+	color: #696969;
+}
+a.carousel-control-next:after
+{
+	content: ">";
+	margin-left: 250px;
+	font-size: 100px;
+	color: #696969;
+}

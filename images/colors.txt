@@ -1,0 +1,7 @@
+gold - #D9A700
+red - #EF4F4F
+text - #4A4A4A
+footer light - #707070
+footer dark - #505050
+footer description text - #ABABAB
+footer text - #fffff
